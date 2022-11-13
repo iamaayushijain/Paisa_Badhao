@@ -1,5 +1,5 @@
 # Paisa_Badhao
-(DISCLAIMER: Readme files can be boring; so you can watch the VIDEO I uploaded in this github repository for a fun filled representation of the working type along with the showcase of code and the tools used)
+(DISCLAIMER: Readme files can be boring; so you can watch the VIDEO I uploaded in this github repository for a fun filled representation of the working type along with the showcase of code and the tools used: Link to Video: https://clipchamp.com/watch/wzTKQcewrYa)
 
 A Woman's best safety is a bit of money of her own.
 
